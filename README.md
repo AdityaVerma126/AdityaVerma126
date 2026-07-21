@@ -1,198 +1,507 @@
+<!-- ===========================
+     ADITYA VERMA GITHUB PROFILE
+=========================== -->
+
 <div align="center">
 
-# Hi 👋, I'm Aditya Verma
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Aditya%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-### 🚀 AI Engineer | Computer Vision Enthusiast | Full Stack Developer | CSE Student
+# 👋 Hi, I'm Aditya Verma
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%7C+Machine+Learning;Computer+Vision+Researcher;Full+Stack+Developer;Building+Projects+that+Solve+Real+Problems;Future+Researcher+%26+Engineer" />
+### 🚀 AI Engineer | Computer Vision Enthusiast | Full Stack Developer
 
-<p>
-Passionate about building intelligent systems using Artificial Intelligence, Deep Learning, and Computer Vision while creating modern full-stack applications.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Computer+Vision;Deep+Learning;Full+Stack+Developer;Future+NVIDIA+Engineer;Open+Source+Contributor" />
+
+<img src="https://komarev.com/ghpvc/?username=AdityaVerma126&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-## 🌟 About Me
+# 💫 Building Intelligent Systems for the Future
 
-🎓 Computer Science Engineering Student
+> *"Code. Learn. Build. Repeat."*
 
-🧠 Interested in
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Autonomous Driving
-- Medical AI
-- Full Stack Development
+---
 
-🔬 Current Focus
+## 🚀 About Me
 
-- NVIDIA-level Computer Vision Projects
-- AI Research
-- Autonomous Driving
-- Medical Image Analysis
-- Open Source
+- 🎓 Computer Science Engineering Student
+- 🤖 Passionate about Artificial Intelligence
+- 👁️ Computer Vision Enthusiast
+- 🧠 Deep Learning Research
+- 🌐 Full Stack Developer
+- 📄 AI Research Aspirant
+- 🚀 Future NVIDIA Engineer
 
-🌱 Currently Learning
+---
+
+## 🌱 Currently Learning
 
 - CUDA Programming
 - TensorRT
-- PyTorch
-- Multi-modal AI
-- Advanced Deep Learning
+- Advanced PyTorch
+- Vision Transformers
+- Generative AI
+- Autonomous Driving
 
 ---
 
-# 🛠 Tech Stack
+## 🎯 Current Goals
 
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+- ✅ Publish AI Research Paper
+- ✅ Build NVIDIA-level Projects
+- ✅ Contribute to Open Source
+- ✅ Crack NVIDIA Internship
+- ✅ Master Computer Vision
 
 ---
 
-## AI & ML
+## 🌍 Portfolio
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+🌐 https://portfolio-website-react-88gh.vercel.app/
 
----
+💼 LinkedIn
 
-## Web Development
+https://www.linkedin.com/in/aditya-verma-07126b252
 
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
+📧 Email
+
+adityaverma12609@gmail.com
 
 ---
-
-## Tools
-
-Git • GitHub • VS Code • Linux • Jupyter • Postman • Docker • Firebase
-
 ---
 
-# 🚀 Featured Projects
+# 💻 Programming Languages
 
-### 🫁 AI Powered Lung Disease Detection
+<p align="center">
 
-Deep Learning model for detecting
-
-- Asthma
-- COPD
-- Healthy
-
-Using
-
-- CNN
-- BiGRU
-- Attention
-- MFCC
-- Wavelets
-- Spectrograms
-
----
-
-### 🚗 Autonomous Driving Perception
-
-- Lane Detection
-- Traffic Sign Recognition
-- Object Detection
-- Distance Estimation
-
-Using
-
-- YOLO
-- OpenCV
-- Deep Learning
-
----
-
-### 💪 FitSync
-
-Fitness & Diet Tracking App
-
-Features
-
-- Workout Planner
-- Diet Tracker
-- Schedule Manager
-- Calendar
-- Authentication
-
-React Native + Firebase
-
----
-
-### 🛒 Footcap
-
-Modern MERN Ecommerce Platform
-
-- Authentication
-- Shopping Cart
-- Responsive UI
-- Admin Dashboard
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AdityaVerma126&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaVerma126&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVerma126&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AdityaVerma126&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
-
----
-
-# 📊 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AdityaVerma126&theme=tokyo-night)
-
----
-
-# 🌍 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/AdityaVerma126">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=bash" height="55"/>
 
 </p>
 
 ---
 
+# 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="55"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 Data Science & Visualization
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=numpy" height="55"/>
+<img src="https://skillicons.dev/icons?i=pandas" height="55"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌐 Web Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+<img src="https://skillicons.dev/icons?i=express" height="55"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="55"/>
+<img src="https://skillicons.dev/icons?i=redux" height="55"/>
+
+</p>
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
+
+</p>
+
+---
+
+# 🛠 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=postman" height="55"/>
+<img src="https://skillicons.dev/icons?i=anaconda" height="55"/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="55"/>
+
+</p>
+
+---
+---
+
+# 🚀 Featured Projects
+
+> *A collection of projects showcasing my passion for Artificial Intelligence, Computer Vision, Full Stack Development, and Mobile App Development.*
+
+---
+
+# 🫁 AI-Powered Lung Disease Detection
+
+### 🔬 Intelligent Respiratory Disease Classification
+
+**Overview**
+
+An AI-based medical diagnosis system for early detection of respiratory diseases using deep learning and lung sound analysis.
+
+### ✨ Key Features
+
+- 🩺 Asthma Detection
+- 🫁 COPD Detection
+- ❤️ Healthy Lung Classification
+- 🎯 High Accuracy Deep Learning Model
+- 📊 Interactive Prediction Dashboard
+- 📈 Advanced Feature Visualization
+
+### 🧠 Technologies Used
+
+- Python
+- TensorFlow
+- PyTorch
+- OpenCV
+- Librosa
+- NumPy
+- Pandas
+- Scikit-Learn
+- Streamlit
+
+### 📌 AI Techniques
+
+- CNN
+- BiGRU
+- Attention Mechanism
+- MFCC
+- Mel Spectrogram
+- Wavelet Features
+- Feature Fusion
+
+---
+
+# 🚗 Autonomous Driving Perception System
+
+### Computer Vision for Self-Driving Cars
+
+An advanced perception pipeline inspired by autonomous driving research.
+
+### Features
+
+- 🚘 Lane Detection
+- 🚦 Traffic Sign Recognition
+- 🚶 Pedestrian Detection
+- 🚗 Vehicle Detection
+- 📏 Distance Estimation
+- 📹 Real-Time Video Processing
+
+### Tech Stack
+
+- Python
+- OpenCV
+- YOLO
+- Deep Learning
+- Computer Vision
+
+---
+
+# 💪 FitSync
+
+### Smart Fitness & Lifestyle App
+
+A cross-platform mobile application built with React Native.
+
+### Features
+
+- 🏋 Workout Tracker
+- 🍎 Diet Planner
+- 📅 Schedule Manager
+- 📊 Progress Tracking
+- 🔔 Reminder Notifications
+- 👤 User Authentication
+
+### Technologies
+
+- React Native
+- Firebase
+- JavaScript
+- Expo
+
+---
+
+# 🛒 Footcap E-Commerce Platform
+
+### Modern MERN Stack Shopping Website
+
+A responsive e-commerce application with modern UI.
+
+### Features
+
+- 🔐 Secure Authentication
+- 🛍 Shopping Cart
+- ❤️ Wishlist
+- 💳 Checkout System
+- 📱 Responsive Design
+- 📦 Product Management
+
+### Tech Stack
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Redux
+- JWT Authentication
+
+---
+
+# 🌐 Personal Portfolio Website
+
+### Professional Developer Portfolio
+
+A modern portfolio showcasing projects, skills, and achievements.
+
+### Highlights
+
+- ✨ Animated UI
+- 📱 Fully Responsive
+- 🎨 Modern Design
+- 🚀 Fast Performance
+- 📂 Project Showcase
+- 📧 Contact Section
+
+🔗 **Portfolio**
+
+https://portfolio-website-react-88gh.vercel.app/
+
+---
+
+# 💡 More Projects Coming Soon...
+
+- 🤖 Vision Transformers
+- 🛰 Satellite Image Analysis
+- 🚁 Drone Object Detection
+- 🧠 Medical AI Research
+- 🎥 Video Analytics
+- 🦾 Robotics Vision
+
+------
+
+# 📊 GitHub Analytics
+
 <div align="center">
 
-### 💡 "Building AI that creates real-world impact."
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaVerma126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-⭐ If you like my work, consider giving a star to my repositories!
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVerma126&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AdityaVerma126&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaVerma126&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaVerma126&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AdityaVerma126/AdityaVerma126/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+> **Note:** This animation requires a GitHub Action to generate automatically. We'll add that workflow later.
+
+---
+
+# 📅 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaVerma126&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaVerma126&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaVerma126&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaVerma126&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaVerma126&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+---
+
+# 🔬 Research Interests
+
+<div align="center">
+
+| 🤖 AI | 👁️ Computer Vision | 🧠 Deep Learning |
+|-------|---------------------|------------------|
+| Medical AI | Autonomous Driving | Edge AI |
+| Generative AI | Robotics | Multimodal AI |
+| NLP | Reinforcement Learning | AI for Healthcare |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Secure an internship at NVIDIA, Google, Microsoft, or a leading AI company
+- 📄 Publish research papers in top AI conferences
+- 🌟 Reach 1000+ GitHub contributions
+- 🧑‍💻 Contribute to major open-source AI projects
+- 📚 Master CUDA, TensorRT, and advanced Computer Vision
+- 🏆 Solve 500+ DSA problems
+- 🎓 Pursue higher studies and AI research
+
+---
+
+# 📜 Certifications
+
+- 🎓 AI & Machine Learning
+- 🎓 Deep Learning
+- 🎓 Computer Vision
+- 🎓 Full Stack Web Development
+- 🎓 Data Structures & Algorithms
+
+> *More certifications coming soon...*
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://portfolio-website-react-88gh.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-verma-07126b252">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:adityaverma12609@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AdityaVerma126">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+### *"The best way to predict the future is to invent it."* — Alan Kay
+
+</div>
+
+---
+
+# 💡 Fun Fact
+
+```python
+class AdityaVerma:
+
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.interests = [
+            "Computer Vision",
+            "Deep Learning",
+            "Medical AI",
+            "Autonomous Driving",
+            "Full Stack Development"
+        ]
+        self.current_goal = "Build AI that solves real-world problems"
+
+    def say_hi(self):
+        return "Thanks for visiting my GitHub! ⭐"
+```
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+Let's build the future with AI 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
