@@ -1,18 +1,25 @@
 <!-- ===========================
      ADITYA VERMA GITHUB PROFILE
 =========================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Aditya%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6C63FF,40:3B82F6,70:06B6D4,100:0EA5E9&text=Aditya%20Verma&fontColor=ffffff&fontSize=65&fontAlignY=38&animation=twinkling"/>
 
-# 👋 Hi, I'm Aditya Verma
+<br>
 
-### 🚀 AI Engineer | Computer Vision Enthusiast | Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer;Computer+Vision+Researcher;Deep+Learning+Developer;Full+Stack+Developer;Future+NVIDIA+Engineer;Open+Source+Contributor"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Computer+Vision;Deep+Learning;Full+Stack+Developer;Future+NVIDIA+Engineer;Open+Source+Contributor" />
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AdityaVerma126&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=AdityaVerma126&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/AdityaVerma126?style=for-the-badge&color=3B82F6"/>
+
+<img src="https://img.shields.io/github/stars/AdityaVerma126?affiliations=OWNER&style=for-the-badge&color=8B5CF6"/>
+
+<br><br>
+
+<img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 
@@ -70,6 +77,13 @@ https://www.linkedin.com/in/aditya-verma-07126b252
 adityaverma12609@gmail.com
 
 ---
+---
+---<div align="center">
+
+<img width="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+</div>
+
 ---
 
 # 💻 Programming Languages
