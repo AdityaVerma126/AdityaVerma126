@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer;Computer+Vision+Researcher;Deep+Learning+Developer;Full+Stack+Developer;Future+NVIDIA+Engineer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer;Computer+Vision+Researcher;Deep+Learning+Developer;Full+Stack+Developer;Open+Source+Contributor"/>
 
 <br><br>
 
