@@ -1,0 +1,33 @@
+name: Generate contribution snake
+
+on:
+  # Refresh the animation twice a day.
+  schedule:
+    - cron: "0 */12 * * *"
+  # Allow a manual run from the Actions tab.
+  workflow_dispatch:
+
+# Required to publish the generated SVGs to the output branch.
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate contribution grid snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish SVGs to the output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
